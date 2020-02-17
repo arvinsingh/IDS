@@ -1,4 +1,4 @@
 # IDS
-Research for iIDS
+Research for IDS
 # Notebooks
 # Research Folder.
